@@ -1,0 +1,14 @@
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\bin\Debug\net8.0\ProjetMasterMind.exe
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\bin\Debug\net8.0\ProjetMasterMind.deps.json
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\bin\Debug\net8.0\ProjetMasterMind.runtimeconfig.json
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\bin\Debug\net8.0\ProjetMasterMind.dll
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\bin\Debug\net8.0\ProjetMasterMind.pdb
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.AssemblyInfoInputs.cache
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.AssemblyInfo.cs
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.csproj.CoreCompileInputs.cache
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.dll
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\refint\ProjetMasterMind.dll
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.pdb
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ProjetMasterMind.genruntimeconfig.cache
+C:\Users\k.degand\Desktop\CSHARP\ProjetMasterMind\ProjetMasterMind\obj\Debug\net8.0\ref\ProjetMasterMind.dll
